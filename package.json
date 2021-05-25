@@ -1,0 +1,23 @@
+{
+  "name": "varias-req-no-mesmo-navegador",
+  "version": "1.0.0",
+  "description": "Código de video que mostro como usar puppeteer para fazer várias requisições no mesmo navegador.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroalpacheco/varias-req-no-mesmo-navegador.git"
+  },
+  "keywords": [],
+  "author": "Pedro Al. Pacheco - contato@pedropachecodev.com.br",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroalpacheco/varias-req-no-mesmo-navegador/issues"
+  },
+  "homepage": "https://github.com/pedroalpacheco/varias-req-no-mesmo-navegador#readme",
+  "dependencies": {
+    "puppeteer": "^9.1.1"
+  }
+}
